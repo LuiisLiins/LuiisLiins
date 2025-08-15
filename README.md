@@ -1,6 +1,4 @@
-## 👋 Olá! Sou o Luis Felipi  
-🎓 Estudante bolsista de Ciência da Computação — Unimar
-
+## 👋 Olá! Sou o Luis Felipi, estudante bolsista de Ciência da Computação — Unimar
 ### 📚 Estudando atualmente
 - C#  
 - Banco de Dados Avançado  
