@@ -1,7 +1,5 @@
-## Olá! 👋
-
-Sou estudante de **Ciência da Computação** na **Universidade de Marília (Unimar)**, cursando o **4º semestre** com bolsa integral pelo **ProUni**.  
-Busco oportunidades de estágio em **desenvolvimento front-end, back-end ou full stack**, aplicando e aprimorando meus conhecimentos.
+## 👋 Olá! Sou o Luis Felipi  
+🎓 Estudante bolsista de Ciência da Computação — Unimar
 
 ---
 
@@ -13,9 +11,9 @@ Busco oportunidades de estágio em **desenvolvimento front-end, back-end ou full
 ---
 
 ### 📫 Contato
-- **E-mail:** [linsluisfelipi@gmail.com](mailto:linsluisfelipi@gmail.com)  
-- **LinkedIn:** [linkedin.com/in/luiisLIins](https://www.linkedin.com/in/luiisLIins)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linsluisfelipi@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiisLIins)  
 
 ---
 
-⭐ *Aberto a novos aprendizados e desafios na área de tecnologia!*
+⭐ Sempre aberto a novos aprendizados na área de tecnologia!
