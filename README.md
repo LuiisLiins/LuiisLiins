@@ -1,26 +1,14 @@
 ## Olá! 👋
 
-Sou estudante de **Ciência da Computação** na **Universidade de Marília (Unimar)**, atualmente no **4º semestre**, com bolsa integral (100%) pelo **ProUni**.  
-Apaixonado por tecnologia e desenvolvimento de software, busco minha primeira oportunidade de estágio para aplicar conhecimentos e continuar evoluindo na área.
+Sou estudante de **Ciência da Computação** na **Universidade de Marília (Unimar)**, cursando o **4º semestre** com bolsa integral pelo **ProUni**.  
+Busco oportunidades de estágio em **desenvolvimento front-end, back-end ou full stack**, aplicando e aprimorando meus conhecimentos.
 
 ---
 
-### 🎯 Objetivo Profissional
-Atuar como estagiário nas áreas de **desenvolvimento front-end, back-end, full stack** ou **análise de sistemas**, contribuindo para projetos reais e adquirindo experiência prática.
-
----
-
-### 📚 Tecnologias e Estudos Atuais
-- **Linguagens:** C#, Java, JavaScript, Python  
-- **Banco de Dados:** MySQL, SQL Server  
-- **Conceitos:** Banco de Dados Avançado, Estruturas de Grafos, Programação Orientada a Objetos  
-- **Outros:** Git/GitHub, HTML, CSS, lógica de programação  
-
----
-
-### 🌍 Idiomas
-- **Português:** Nativo  
-- **Inglês:** Básico funcional (leitura e escrita)
+### 📚 Estudando atualmente
+- C#  
+- Banco de Dados Avançado  
+- Estruturas de Grafos  
 
 ---
 
@@ -30,10 +18,4 @@ Atuar como estagiário nas áreas de **desenvolvimento front-end, back-end, full
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisLins&layout=compact)  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisLins&show_icons=true&theme=default)
-
----
-
-⭐ *Sempre aberto a novos aprendizados, desafios e oportunidades na área de tecnologia!*  
-
+⭐ *Aberto a novos aprendizados e desafios na área de tecnologia!*
