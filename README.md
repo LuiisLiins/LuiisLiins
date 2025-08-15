@@ -17,9 +17,10 @@
   <img src="https://img.icons8.com/color/32/000000/react-native.png" alt="React"/>
 </a>
 
-<hr style="height:1px; border:none; color:#333; background-color:#333;" />
+────────────────────────────
 ### 📫 Contato
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:linsluisfelipi@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiisLIins)  
 
 ⭐ Sempre aberto a novos aprendizados na área de tecnologia!
+
 
