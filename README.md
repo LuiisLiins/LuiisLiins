@@ -1,8 +1,5 @@
-## 👋 Olá! Sou o Luis Felipi, estudante bolsista de Ciência da Computação — Unimar
-### 📚 Estudando atualmente
-- C#  
-- Banco de Dados Avançado  
-- Estruturas de Grafos  
+## 👋 Olá! 
+Sou o Luis Felipi, estudante bolsista de Ciência da Computação — Unimar
 
 <a href="https://www.python.org/" target="_blank">
   <img src="https://img.icons8.com/color/32/000000/python.png" alt="Python"/>
